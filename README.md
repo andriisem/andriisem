@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @wisestamp
-
 ### Connect with me:
 
 [<img align="left" alt="nouraellm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
